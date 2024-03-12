@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ambooon
 - 👀 I’m interested in programming, photography, racing and art
-- 🌱 I’m currently learning learnscript and react 
+- 🌱 I’m currently learning MERN stack
 - ⚡ Fun fact: I do know how to do 3D art.
 
 <!---
