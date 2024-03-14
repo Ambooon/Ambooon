@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Francis Angoring from Philippines
-- I'm currently 4th year college student from Cavite State University
+- 👨‍🎓 I'm currently 4th year college student from Cavite State University
 - 👀 I’m interested in programming, photography, racing and art
 - 🌱 I’m currently learning MERN stack
 - ⚡ Fun fact: I do know how to do 3D art.
