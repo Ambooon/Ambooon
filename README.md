@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Francis Angoring from Philippines
 - 👨‍🎓 I'm currently 4th year college student from Cavite State University
 - 👀 I’m interested in programming, photography, racing and art
-- 🌱 I’m currently learning MERN stack or maybe PERN stack
+- 🌱 I’m currently learning PERN stack
 - ⚡ Fun fact: I do know how to do 3D art.
 
 <!---
