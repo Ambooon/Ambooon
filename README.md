@@ -1,6 +1,6 @@
-<div style="text-align:center;">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f57c9943288301.58647e684e3e7.gif" alt="MasterHead">
-</div>
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f57c9943288301.58647e684e3e7.gif" alt="MasterHead">
+</p>
 <h1 align="center">Hi 👋, I'm Francis Angoring</h1>
 <h3 align="center">A Junior Web Developer from Philippines</h3>
 
