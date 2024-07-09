@@ -16,13 +16,20 @@
 <a href="https://www.leetcode.com/ambooon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ambooon" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages</h3>
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py)](https://skillicons.dev)
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py" />
+</p>
 
 <h3 align="left">Frameworks</h3>
-[![Frameworks](https://skillicons.dev/icons?i=tailwind,react,nodejs,electron,django,mongodb)](https://skillicons.dev)
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=tailwind,react,nodejs,electron,django,mongodb" />
+</p>
 
 <h3 align="left">Developer Tools</h3>
-[![Developer Tools](https://skillicons.dev/icons?i=git,vscode,pycharm,figma, postman)](https://skillicons.dev)
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,figma,postman" />
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambooon&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ambooon" /></p>
