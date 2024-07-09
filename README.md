@@ -10,6 +10,7 @@
 
 - 📫 How to reach me **angoringfrancis29@gmail.com**
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/francis-angoring-a098ab312" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="francis-angoring-a098ab312" height="30" width="40" /></a>
