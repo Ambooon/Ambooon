@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Polaroyd**
 
-- 🌱 I’m currently learning **FastAPI, PostgreSQL**
+- 🌱 I’m currently learning **C#, ASP.NET**
 
 - 📫 How to reach me **angoringfrancis29@gmail.com**
 
