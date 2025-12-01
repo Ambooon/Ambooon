@@ -4,9 +4,7 @@
 <h1 align="center">I'm Francis Angoring</h1>
 <h3 align="center">A Junior Web Developer from Philippines</h3>
 
-- 🔭 I’m currently working on **Polaroyd**
-
-- 🌱 I’m currently learning **C#, ASP.NET**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **angoringfrancis29@gmail.com**
 
