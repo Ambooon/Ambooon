@@ -4,8 +4,6 @@
 <h1 align="center">I'm Francis Angoring</h1>
 <h3 align="center">A Junior Web Developer from Philippines</h3>
 
-- 🌱 I’m currently learning **Rust**
-
 - 📫 How to reach me **angoringfrancis29@gmail.com**
 
 <br>
@@ -18,17 +16,15 @@
 
 <h3 align="left">Languages</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs" />
 </p>
 
 <h3 align="left">Frameworks</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=tailwind,react,nodejs,electron,django,mongodb" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react,vue,nuxtjs,astro,electron,dotnet" />
 </p>
 
 <h3 align="left">Developer Tools</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=git,vscode,pycharm,figma,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,rider,figma,postman" />
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ambooon&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ambooon" /></p>
